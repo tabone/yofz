@@ -1,0 +1,26 @@
+{
+  "name": "yofz",
+  "version": "0.1.0",
+  "description": "A node module aimed to ease the creation of directories and templates inside Yeoman.",
+  "main": "libs/Yofz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Yeoman",
+    "File",
+    "System",
+    "Templates",
+    "Directories"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tabone/yofz.git"
+  },
+  "author": "Luca Tabone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tabone/yofz/issues"
+  },
+  "homepage": "https://github.com/tabone/yofz"
+}
