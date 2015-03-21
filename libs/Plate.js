@@ -19,7 +19,7 @@ var Plate = function(name, opts) {
  * Inheriting from Asset object.
  */
 Plate.prototype = Object.create(Asset.prototype)
-Plate.prototype.constructor = Object.create(Plate)
+Plate.prototype.constructor = Plate
 
 /**
  * Exporting Plate as a module
