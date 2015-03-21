@@ -1,6 +1,6 @@
 {
   "name": "yofz",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A node module aimed to ease the creation of directories and templates inside Yeoman.",
   "main": "libs/Yofz.js",
   "scripts": {
